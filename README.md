@@ -6,14 +6,14 @@
 ---
 
 ## 👋 About Me  
-I'm a passionate **MERN Stack Developer** from **Mardan, KPK, Pakistan**, building scalable and interactive web applications. I thrive on problem-solving, creating sleek user experiences, and continuously learning new technologies. With expertise in **React, Tailwind CSS, and JavaScript**, I love crafting seamless digital experiences.  
+I'm a **Software Engineering Student** from **Mardan, KPK, Pakistan**, with a strong background in **MERN Stack Development**. My passion lies in **problem-solving, system design, and scalable web applications**. I love turning ideas into real-world applications and continuously improving my skills in both **frontend and backend development**.  
 
 ---
 
 ## 🌱 Currently Learning  
-- 🚀 **Next.js** – Enhancing SEO & performance for modern web applications.  
-- ⚡ **Advanced React.js** – Optimizing state management & hooks.  
-- 🔧 **Backend Development** – Expanding skills with **Node.js & MongoDB**.  
+- **Software Engineering Principles** – System design, architecture, and best coding practices.  
+- **Advanced Backend Development** – Optimizing APIs, authentication, and database management.  
+- **Data Structures & Algorithms** – Strengthening problem-solving and coding efficiency.  
 
 ---
 
@@ -28,12 +28,12 @@ I'm a passionate **MERN Stack Developer** from **Mardan, KPK, Pakistan**, buildi
   ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)  
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)  
-- **Tools & Skills**: REST APIs | JWT Authentication | Responsive Design | CSS Animations  
+- **Other Skills**: REST APIs | JWT Authentication | CRUD Operations | Software Architecture | MVC Pattern  
 
 ---
 
 ## 💼 My Goal  
-I am looking for opportunities in **front-end development** or **full-stack roles**, whether as a **freelancer, intern, or full-time developer**. Excited to collaborate on innovative projects and grow my expertise.  
+As a **Software Engineering Student & MERN Stack Developer**, my goal is to **build scalable, high-performance applications** while mastering **full-stack development**. I aim to contribute to innovative projects, refine my system design skills, and work on **real-world tech challenges**.  
 
 ---
 
